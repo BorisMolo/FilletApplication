@@ -1,0 +1,23 @@
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\bin\Debug\CIO.exe.config
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.Form1.resources
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.Properties.Resources.resources
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.csproj.GenerateResource.Cache
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\bin\Debug\CIO.exe
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\bin\Debug\CIO.pdb
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.exe
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.pdb
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.DataGrid_Form.resources
+C:\Users\Boris\Google Диск\University\Study\_ 7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.Form_eye.resources
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\bin\Debug\CIO.exe.config
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\bin\Debug\CIO.exe
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\bin\Debug\CIO.pdb
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.DataGrid_Form.resources
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.Form1.resources
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.Form_eye.resources
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.Properties.Resources.resources
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.csproj.GenerateResource.Cache
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.exe
+C:\Users\Boris\Google Диск\University\Study\7 семестр\Методы обработки изображения\CIO\CIO\obj\Debug\CIO.pdb
